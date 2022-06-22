@@ -43,7 +43,10 @@ void loop() {
   Serial.print(okumalvdt);
   Serial.print(" mm \t");
   
-  Serial.print(reading=reading/210);
+  Serial.print(reading=reading/210); // Malzeme lab 20 ton
+  //Serial.print(reading=reading/210); // Malzeme lab X ton
+  //Serial.print(reading=reading/210); // Zemin lab X ton
+  //Serial.print(reading=reading/210); // Zemin lab X ton
   Serial.println(" kg ");
 
 
