@@ -1,0 +1,9 @@
+C:\Users\bt\source\repos\LabArdwatch\LabArdwatch\bin\Debug\LabArdwatch.exe.config
+C:\Users\bt\source\repos\LabArdwatch\LabArdwatch\bin\Debug\LabArdwatch.exe
+C:\Users\bt\source\repos\LabArdwatch\LabArdwatch\bin\Debug\LabArdwatch.pdb
+C:\Users\bt\source\repos\LabArdwatch\LabArdwatch\obj\Debug\LabArdwatch.Form1.resources
+C:\Users\bt\source\repos\LabArdwatch\LabArdwatch\obj\Debug\LabArdwatch.Properties.Resources.resources
+C:\Users\bt\source\repos\LabArdwatch\LabArdwatch\obj\Debug\LabArdwatch.csproj.GenerateResource.Cache
+C:\Users\bt\source\repos\LabArdwatch\LabArdwatch\obj\Debug\LabArdwatch.csproj.CoreCompileInputs.cache
+C:\Users\bt\source\repos\LabArdwatch\LabArdwatch\obj\Debug\LabArdwatch.exe
+C:\Users\bt\source\repos\LabArdwatch\LabArdwatch\obj\Debug\LabArdwatch.pdb
